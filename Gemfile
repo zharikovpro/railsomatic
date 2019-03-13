@@ -6,7 +6,7 @@ ruby File.read(File.join(File.dirname(__FILE__), '.ruby-version')).strip
 gem 'dotenv-rails', '~> 2.2.1', require: 'dotenv/rails-now'
 
 # Rails 5 with Action Cable
-gem 'rails', '~> 5.1.4'
+gem 'rails', '~> 5.2.2'
 
 # Simplest DB
 gem 'sqlite3'
