@@ -36,7 +36,7 @@ group :development do
   gem 'spring-commands-rspec', '~> 1.0.4'
 
   # Very informative error pages with console
-  gem 'better_errors', '~> 2.3.0'
+  gem 'better_errors', '~> 2.8.0'
 
   # Insert console everywhere it's required
   gem 'binding_of_caller', '~> 0.7.2'
